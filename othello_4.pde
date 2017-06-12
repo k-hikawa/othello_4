@@ -1,7 +1,7 @@
 //評価値=盤面評価値+返せる石の数
 //自分の石選択あり
 
-final int SIZE = 100;
+final int SIZE = 50;
 final int STONE_SIZE = (int)(SIZE*0.7);
 final int NONE = 0;
 final int BLACK = 1;
